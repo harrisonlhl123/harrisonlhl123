@@ -1,6 +1,7 @@
-## 👋 Hi, I’m Harrison!
+### 👋 Hi, I’m Harrison and I'm a software engineer!
 
-### 📚 I’m currently learning Python and working on my fullstack projects.
+### 📚 I’m currently learning DSA using Python
+### 👨‍💻 I'm working on a Twitter clone to keep my programming skills sharp
 ### 🥂 Let's talk about interesting project ideas!
 
 <!---
