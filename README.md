@@ -1,11 +1,11 @@
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>Hi, I’m Harrison!</h3>
+<h3 align="center">Hi, I’m Harrison!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h3>
 <p>
 I am a fullstack software engineer based out of NYC. I graduated from NYU with a degree in Math Education then transitioned to Software Engineering by attending App Academy. In my past role as a math teacher, I consistently encouraged my students to adopt a growth mindset—a philosophy I wholeheartedly embraced in my own life. Continuously seeking new opportunities and avenues for personal and professional growth is a fundamental aspect of my approach.
 
 On my spare time, I enjoy collecting sneakers, weightlifting, playing basketball, going on hikes, exploring new restaurants, and spending time with friends and family.
 </p>
 
-<h3>My Skillset:</h3>
+<h3>💡 My Skillset:</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F1DC56?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@ On my spare time, I enjoy collecting sneakers, weightlifting, playing basketball
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>I am currently working on:</h3>
+<h3>👷 I am currently working on:</h3>
 <ul>
   <li>📚 DSA using Python</li>
   <li>👨‍💻 Twitter clone using the MERN stack to keep my programming skills sharp</li>
