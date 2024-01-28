@@ -37,7 +37,9 @@
 
 <h3>Connect with me!</h3>
 <p>
-  <a href="https://www.linkedin.com/in/harrison-l-2738bb103" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-         square&logo=linkedin&logoColor=color/" /></a>
+  <a href="https://www.linkedin.com/in/harrison-l-2738bb103" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <!---
